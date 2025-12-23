@@ -4,15 +4,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.myapp</groupId>
-    <artifactId>wezvatech-demo</artifactId>
-    <version>9739110917</version>
+    <artifactId>cicd-demoo</artifactId>
+    <version>2025-12-23</version>
     <packaging>jar</packaging>
 
     <name>Spring boot application example</name>
     <description>Demo wezvatech Ninjas project</description>
 
     <organization>
-        <name>ADAM M</name>
+        <name>Sumit</name>
     </organization>
 
 
