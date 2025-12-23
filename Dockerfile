@@ -1,4 +1,4 @@
 FROM amazoncorretto:latest
 WORKDIR /opt/app
-COPY target/wezvatech-demo-9739110917.jar app.jar
+COPY target/cicd-demoo-2025-12-23.jar app.jar
 ENTRYPOINT ["java","-jar","app.jar"]
